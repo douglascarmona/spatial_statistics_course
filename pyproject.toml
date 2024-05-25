@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "spatial-statistics-course"
+version = "0.0.1"
+description = "Spatial Statistics course"
+authors = ["Douglas Carmona <douglas.albertocg@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.2"
+numpy = "^1.26.4"
+seaborn = "^0.13.2"
+shapely = "^2.0.4"
+matplotlib = "^3.9.0"
+geopandas = "^0.14.4"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyterlab = "^4.2.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
