@@ -8,6 +8,8 @@ The dependencies used in this course are managed via Poetry. All documentation t
 
 ### Install Poetry
 
+#### Windows (Powershell)
+
 1. **Open Windows Powershell**: Navigate to your Start menu, type "Powershell", and select "Windows Powershell" from the search results.
 
 2. **Run installation command**: In the Powershell window, paste the following command and press Enter:
@@ -58,6 +60,8 @@ Este repositorio contiene las notebooks para el curso de estadística espacial c
 Las dependencias utilizadas en este curso son manejadas a través de Poetry. Toda la documentación para instalar y empezar a trabajar con Poetry se puede encontrar en el siguiente [enlace](https://python-poetry.org).
 
 ### Instalando Poetry
+
+#### Windows (Powershell)
 
 1. **Abra Windows Powershell**: navegue hasta el menú Inicio, escriba "Powershell" y seleccione "Windows Powershell" en los resultados de la búsqueda.
 
