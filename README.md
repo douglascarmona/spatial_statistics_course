@@ -51,6 +51,18 @@ To run the notebooks using [JupyterLab](https://docs.jupyter.org/en/latest/), ju
 poetry run jupyter-lab classes
 ```
 
+## Packages
+
+* [pandas](https://pandas.pydata.org/): tool data analysis and manipulation.
+* [NumPy](https://numpy.org/): fundamental package for scientific computing with Python.
+* [matplotlib](https://matplotlib.org/stable/): library for creating static, animated, and interactive visualizations.
+* [geopandas](https://geopandas.org/en/stable/index.html): open source project to work with geospatial data in python.
+* [shapely](https://shapely.readthedocs.io/en/stable/index.html): manipulation and analysis of geometric objects in the Cartesian plane.
+* [SciPy](https://scipy.org/): fundamental algorithms for scientific computing in Python.
+* [GeoPy](https://geopy.readthedocs.io/en/stable/): Python client for several popular geocoding web services.
+* [PySAL](https://pysal.org/): the python spatial analysis library for open source Geospatial Data Science.
+* [contextly](https://contextily.readthedocs.io/en/latest/): context geo tiles in Python.
+
 # Curso de Estadística Espacial
 
 Este repositorio contiene las notebooks para el curso de estadística espacial con Python.
@@ -103,3 +115,15 @@ Para correr las notebooks usando [JupyterLab](https://docs.jupyter.org/en/latest
 ```bash
 poetry run jupyter-lab classes
 ```
+
+## Librerías
+
+* [pandas](https://pandas.pydata.org/): herramienta de análisis y manipulación de datos.
+* [NumPy](https://numpy.org/): paquete fundamental para la computación científica con Python.
+* [matplotlib](https://matplotlib.org/stable/): librería para crear visualizaciones estáticas, animadas e interactivas.
+* [geopandas](https://geopandas.org/en/stable/index.html): proyecto de código abierto para trabajar con datos geoespaciales en Python.
+* [shapely](https://shapely.readthedocs.io/en/stable/index.html): manipulación y análisis de objetos geométricos en el plano cartesiano.
+* [SciPy](https://scipy.org/): algoritmos fundamentales para la computación científica en Python.
+* [GeoPy](https://geopy.readthedocs.io/en/stable/): cliente Python para varios servicios web populares de codificación geográfica.
+* [PySAL](https://pysal.org/): biblioteca de análisis espacial de Python para ciencia de datos geoespaciales de código abierto.
+* [contextly](https://contextily.readthedocs.io/en/latest/): mosaicos geográficos de contexto en Python.
