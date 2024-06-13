@@ -19,6 +19,9 @@ geopy = "^2.4.1"
 mapclassify = "^2.6.1"
 pysal = "^24.1"
 contextily = "^1.6.0"
+openpyxl = "^3.1.4"
+pydataset = "^0.2.0"
+plotly = "^5.22.0"
 
 
 [build-system]
